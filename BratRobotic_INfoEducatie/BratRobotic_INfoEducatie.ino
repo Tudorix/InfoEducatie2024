@@ -101,7 +101,7 @@ p{
       <input type="range" min="0" max="100" value="50" onchange="updateSlider(2, this.value)" class="slider">
       <p>Ridicare Brat 2</p>
       <input type="range" min="0" max="100" value="50" onchange="updateSlider(3, this.value)" class="slider">
-      <p>Rotire Ghiara</p>
+      <p>Rotire Gheara</p>
       <input type="range" min="0" max="100" value="50" onchange="updateSlider(4, this.value)" class="slider">
       <br>
 
